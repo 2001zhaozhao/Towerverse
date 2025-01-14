@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Server-jvm-0.0.1-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/Server/build/libs</output-path>
+    <root id="archive" name="Server-jvm-0.0.1-SNAPSHOT.jar">
+      <element id="module-output" name="Towerverse.Server.jvmMain" />
+    </root>
+  </artifact>
+</component>

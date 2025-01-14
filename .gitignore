@@ -1,0 +1,6 @@
+.gradle
+build
+.kotlin
+kotlin-js-store
+node_modules
+OfficialContent/OfficialMod.json

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Simulation-wasm-js-0.0.1-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/Simulation/build/libs</output-path>
+    <root id="archive" name="Simulation-wasm-js-0.0.1-SNAPSHOT.jar">
+      <element id="module-output" name="Towerverse.Simulation.wasmJsMain" />
+    </root>
+  </artifact>
+</component>

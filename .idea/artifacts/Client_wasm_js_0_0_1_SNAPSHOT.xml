@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Client-wasm-js-0.0.1-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/Client/build/libs</output-path>
+    <root id="archive" name="Client-wasm-js-0.0.1-SNAPSHOT.jar">
+      <element id="module-output" name="Towerverse.Client.wasmJsMain" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ModdingSDK-jvm-0.0.1-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/ModdingSDK/build/libs</output-path>
+    <root id="archive" name="ModdingSDK-jvm-0.0.1-SNAPSHOT.jar">
+      <element id="module-output" name="Towerverse.ModdingSDK.jvmMain" />
+    </root>
+  </artifact>
+</component>
