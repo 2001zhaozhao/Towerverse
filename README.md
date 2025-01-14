@@ -115,7 +115,7 @@ The benefits of Kotlin DSL when it comes to the modding system are immense, and 
 
 ![image.png](assets/intellij-refactor.png)
 
-For a list of all game objects supported, check the README file in the `Common` module: [README](Common/README.md)
+For more details on the game's modding and Game Object system as well as a list of all game objects supported, check the README file in the `Common` module: [README](Common/README.md)
 
 ## In-development screenshots
 
